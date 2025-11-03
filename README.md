@@ -76,6 +76,6 @@ To empower UK rail operators with a 360° view of revenue, punctuality, customer
 ---
 
 ## Author
-Developed by **Saleh Yasser||Nada Nasser|| Amir ||Ali Hassan ||Sameh Ragab|| Doaa**  
+Developed by **Saleh Yasser||Nada Nasser|| Amir Eissa ||Ali Hassan ||Sameh Ragab|| Doaa**  
 Data Analysis & Business Intelligence | Power BI   
 
